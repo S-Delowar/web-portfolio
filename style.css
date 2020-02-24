@@ -72,7 +72,7 @@ footer p{
     font-size: 12px;
 }
 /* For mobile phones: */
-[class*="col-"] {
+[class*="half-width"] {
     width: 100%;
   }
   
